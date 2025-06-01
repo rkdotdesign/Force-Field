@@ -1,0 +1,5 @@
+{
+  "name": "Force Field",
+  "description": "An interactive art tool displaying a grid of circles that dynamically respond to cursor movements, creating captivating force field patterns. Customize parameters like attraction, repulsion, density, strength, etc. for diverse visual effects.",
+  "requestFramePermissions": []
+}
